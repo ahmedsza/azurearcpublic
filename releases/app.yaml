@@ -8,6 +8,6 @@ spec:
   chart:
     git: https://github.com/ahmedsza/azurearcpublic
     ref: master
-    path: weather
+    path: charts/weather
   values:
     serviceName: arc-k8s-demo
