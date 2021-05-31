@@ -7,7 +7,7 @@ spec:
   releaseName: arc-k8s-demo
   chart:
     git: https://github.com/ahmedsza/azurearcpublic
-    ref: master
+    ref: main
     path: charts/weather
   values:
     serviceName: arc-k8s-demo
